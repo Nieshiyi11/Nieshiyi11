@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&width=500&lines=Hi+there!+I'm+Eleven+%F0%9F%91%8B)
 
-My Chinese name is NieShiyi, you can call me *Eleven* :)
+My name is NieShiyi, you can call me *Eleven* :)
 
 I'm a college student. |📍Chengdu,Sichuan
 
